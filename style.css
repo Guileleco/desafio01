@@ -1,0 +1,43 @@
+body{
+text-align: center; }
+
+#planeta{
+margin: 64px 337px 32px;}
+
+h1{
+font-family:'Dosis', sans-serif;
+color: #3f3d56;
+margin-bottom: 16px;
+font-weight: normal;
+font-size: 32px;
+line-height: 40.45px;}
+
+h1 span{
+color: #ee24ff;
+font-weight: bold;}
+
+
+p{
+font-family: 'Open Sans', sans-serif;
+font-weight: normal;
+font-size: 15px;
+width: 540px;
+color: #828282;
+line-height: 22px;
+margin: 0 auto 32px;}
+
+p span{
+font-weight: bold;
+color: #3f3d56;}
+
+#linha{
+width: 391px;
+height: 0px;
+border: 1px #3f3d56 solid;
+margin: 0 auto 8px;}
+
+a{
+font-size: 15px;
+color: #3f3d56;
+font-weight: bold;
+line-height: 22.15px;}
